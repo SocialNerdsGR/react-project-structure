@@ -6,9 +6,13 @@ An opinionated React project structure using the following libraries:
 - Formik
 - Axios
 - React Query
+
+## Tools: 
 - Vite
 - Vitest
 - TypeScript
+- React Testing Library
+- PNPM
 
 ## Run
 - pnpm install
