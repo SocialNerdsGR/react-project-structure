@@ -1,5 +1,13 @@
 # React project structure
 
+An opinionated React project structure using the following libraries:
+
+- React router
+- Formik
+- Axios
+- React Query
+- Vite
+
 ## Run
 - pnpm install
 - pnpm run dev
