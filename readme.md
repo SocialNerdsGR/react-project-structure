@@ -7,6 +7,8 @@ An opinionated React project structure using the following libraries:
 - Axios
 - React Query
 - Vite
+- Vitest
+- TypeScript
 
 ## Run
 - pnpm install
@@ -17,3 +19,6 @@ An opinionated React project structure using the following libraries:
 
 ## Build 
 - pnpm run build
+
+## Test
+- pnpm test
